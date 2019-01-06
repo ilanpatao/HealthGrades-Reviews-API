@@ -8,4 +8,5 @@ Technical: JS/Jquery based XHR request to Reviewsmaker.com requesting real-time 
 Usage ideas: Anyone wishing to pull reviews for display, analytics, widgets, etc.
 
 Demo: https://www.reviewsmaker.com/api/demo/healthgrades
+
 Author: Ilan Patao (ilan@dangerstudio.com)
